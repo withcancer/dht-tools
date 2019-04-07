@@ -1,0 +1,11 @@
+{
+  "name": "infohash-spider",
+  "version": "1.0.0",
+  "description": "bittorrent dht network infohash spider",
+  "main": "ihSpider.js",
+  "dependencies": {
+    "redis": "^2.8.0",
+    "bencode": "^2.0.0",
+    "winston": "^3.0.0"
+  }
+}

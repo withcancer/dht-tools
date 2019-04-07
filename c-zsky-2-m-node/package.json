@@ -1,0 +1,12 @@
+{
+  "name": "convert-infohash-to-metadata-webtorrent-node",
+  "version": "1.0.0",
+  "description": "Use webtorrent api to fetch metadata of infohash, then store into elastic",
+  "main": "index.js",
+  "author": "withcancer",
+  "dependencies": {
+    "elasticsearch": "^15.1.1",
+    "mysql": "^2.16.0",
+    "moment": "^2.22.2"
+  }
+}
